@@ -5,9 +5,9 @@ The code is not the cleanest yet but it functions well as far as I can tell.
 
 How to try it on your own computer:
 
-1) download files (index.html and static.zip)
+1) download files (index.html and static.rar)
 2) save index.html in desired folder
-3) unzip the static.zip in the folder where index.html is saved
+3) unzip the static.rar in the folder where index.html is saved
 4) open index.html in your browser (e.g. open Chrome Browser, press control+o, find and open index.html
 5) enjoy :)
 
