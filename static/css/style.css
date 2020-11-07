@@ -1,0 +1,109 @@
+.container-body
+{
+    background-color: rgb(58, 58, 58);
+}
+.container-main
+{
+    /* border: 1px solid black; */
+    text-align: center;
+    width: 75%;
+    margin: 0 auto;
+}
+.flex-box-players
+{
+    display: flex;
+    /* border: 1px solid black; */
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgb(28, 78, 24);
+    /* background-image: url("/static/images/green-felt.jpg"); */
+}
+.container-main img
+{
+    width: 50%;
+}
+
+h2, h3, tr, td, th
+{
+    color: whitesmoke;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.flex-box-player, .flex-box-dealer
+{
+    width: 50%;
+    border: 1px solid gray;
+}
+
+.flex-box-player-cards img, .flex-box-dealer-cards img
+{
+    width: 20%;
+    margin: 5px;
+}
+
+.flex-box-start-cards img
+{
+    width: 80%;
+}
+
+.flex-box-draw img
+{
+    width: 80%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.flex-box-player-cards, .flex-box-dealer-cards
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.flex-box-buttons
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin: 5px;
+    justify-content: center;
+}
+
+.footer
+{
+    text-align: center;
+}
+
+.flex-box-buttons div
+{
+    margin: 5px;
+}
+.flex-box-scores
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin: 5px;
+    justify-content: center;
+}
+
+.flex-box-scores table
+{
+    text-align: center;
+    border: 1px solid grey;
+}
+
+.flex-box-scores table th
+{
+    text-align: left;
+    margin: 5px;
+    border: 1px solid grey;
+}
+
+.flex-box-scores table td
+{
+    margin: 5px;
+    border: 1px solid grey;
+}

@@ -5,10 +5,9 @@ The code is not the cleanest yet but it functions well as far as I can tell.
 
 How to try it on your own computer:
 
-1) download files (index.html and static.rar)
-2) save index.html in desired folder
-3) unzip the static.rar in the folder where index.html is saved
-4) open index.html in your browser (e.g. open Chrome Browser, press control+o, find and open index.html
+1) clone/download
+2) unzip
+3) open index.html in your browser (e.g. open Chrome Browser, press control+o, find and open index.html or double click index.html)
 5) enjoy :)
 
 Future improvements (in no particular order):
@@ -20,4 +19,4 @@ Future improvements (in no particular order):
 5) Audio sound effects and music
 6) How to play
 
-Version 1: Simple blackjack game (improvements to follow)
+Version 1.1: Simple blackjack game (improvements to follow)
